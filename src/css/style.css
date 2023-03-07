@@ -63,4 +63,9 @@ html a {
 
 .waterline {
   margin-bottom: 20px;
+}
+
+.myFooter {
+  background-image: url("../img/footer.jpg");
+  background-size: cover;
 }/*# sourceMappingURL=style.css.map */
